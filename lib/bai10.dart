@@ -20,13 +20,15 @@ class bai10 extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.end,
               children: const [
                 PhoneInfo(
-                    img: 'assets/imgBai10/h4.jpg',
-                    ttchitiet: 'Realme 6S Chính Hãng 2sim RAM 8GB bộ nhớ 128GB',
-                    gia: '5000000'),
+                  img: 'assets/imgBai10/h4.jpg',
+                  ttchitiet: 'Realme 6S Chính Hãng 2sim RAM 8GB bộ nhớ 128GB',
+                  gia: '5000000',
+                ),
                 PhoneInfo(
-                    img: 'assets/imgBai10/h9.jpg',
-                    ttchitiet: 'Điện thoại 1',
-                    gia: '5000000'),
+                  img: 'assets/imgBai10/h9.jpg',
+                  ttchitiet: 'Điện thoại 1',
+                  gia: '5000000',
+                ),
               ],
             ),
             Row(
@@ -37,22 +39,25 @@ class bai10 extends StatelessWidget {
                     ttchitiet: 'Điện thoại 1',
                     gia: '5000000'),
                 PhoneInfo(
-                    img: 'assets/imgBai10/h6.jpg',
-                    ttchitiet: 'Điện thoại 1',
-                    gia: '5000000'),
+                  img: 'assets/imgBai10/h6.jpg',
+                  ttchitiet: 'Điện thoại 1',
+                  gia: '5000000',
+                ),
               ],
             ),
             Row(
               crossAxisAlignment: CrossAxisAlignment.end,
               children: const [
                 PhoneInfo(
-                    img: 'assets/imgBai10/h8.jpg',
-                    ttchitiet: 'Điện thoại 1',
-                    gia: '5000000'),
+                  img: 'assets/imgBai10/h8.jpg',
+                  ttchitiet: 'Điện thoại 1',
+                  gia: '5000000',
+                ),
                 PhoneInfo(
-                    img: 'assets/imgBai10/h7.jpg',
-                    ttchitiet: 'Điện thoại 1',
-                    gia: '5000000'),
+                  img: 'assets/imgBai10/h7.jpg',
+                  ttchitiet: 'Điện thoại 1',
+                  gia: '5000000',
+                ),
               ],
             ),
           ]),

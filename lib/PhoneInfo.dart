@@ -29,7 +29,6 @@ class PhoneInfo extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                   fontFamily: 'Aptima',
                   color: Colors.black,
-                  //fontSize: 15,
                 ),
               ),
             ),
